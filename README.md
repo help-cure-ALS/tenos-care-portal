@@ -873,4 +873,4 @@ docker compose restart medplum-server verification-service supplier-proxy studie
 
 ## License
 
-[MIT](./LICENSE) © [help cure ALS e.V.](https://help-cure-als.org/)
+[AGPL-3.0](./LICENSE) © [help cure ALS e.V.](https://help-cure-als.org/)
